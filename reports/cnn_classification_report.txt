@@ -1,0 +1,11 @@
+                                        precision    recall  f1-score   support
+
+   annotations for mtsd in coco format     0.0000    0.0000    0.0000         0
+     mtsd_fully_annotated_train_images     0.8731    1.0000    0.9322     36589
+   mtsd_partially_annotated_annotation     0.0000    0.0000    0.0000         0
+mtsd_v2_fully_annotated_annotation.zip     0.0000    0.0000    0.0000         0
+mtsd_v2_fully_annotated_images.val.zip     0.0000    0.0000    0.0000      5320
+
+                             micro avg     0.8731    0.8731    0.8731     41909
+                             macro avg     0.1746    0.2000    0.1864     41909
+                          weighted avg     0.7622    0.8731    0.8139     41909
